@@ -4,7 +4,9 @@
 
 
 ![Clebson GitHub stats](https://github-readme-stats.vercel.app/api?username=Clebson-Alves&show_icons=true&theme=merko)
-
+<style>
+  img{margin:2px;}
+</style>
 
 ### Tecnologias que utilizo em estudo e desenvolvimento:
 
